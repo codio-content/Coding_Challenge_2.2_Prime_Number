@@ -1,0 +1,30 @@
+{
+ "sections": [
+  {
+   "id": "dcbb86b1-b966-3ac8-3e8f-dc216aa975bb",
+   "title": "Prime Number",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "main.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Prime-Number-dcbb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false
+}
